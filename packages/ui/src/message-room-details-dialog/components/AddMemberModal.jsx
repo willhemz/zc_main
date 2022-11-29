@@ -9,6 +9,7 @@ const AddMemberModal = props => {
     show,
     handleShow,
     handleClose,
+    userList,
     searchList,
     addMembersEvent,
     isLoading
